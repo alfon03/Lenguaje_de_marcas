@@ -1,0 +1,14 @@
+{
+    "texto": {
+      "titulo": "XML explicado a los niños",
+      "párrafo": [
+        {
+          "#text": "El ",
+          "abreviatura": "XML",
+          "#text1": "define cómo crear\n  lenguajes de marcas."
+        },
+        "Las marcas se añaden a un documento de texto\n  para añadir información."
+      ],
+      "http": "www.example.org"
+    }
+  }

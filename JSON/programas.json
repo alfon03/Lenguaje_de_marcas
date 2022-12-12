@@ -1,0 +1,18 @@
+{
+    "programas": {
+      "programa": [
+        {
+          "-nombre": "Firefox",
+          "-licencia": "GPL MPL"
+        },
+        {
+          "-nombre": "LibreOffice",
+          "-licencia": "LGPL"
+        },
+        {
+          "-nombre": "Inkscape",
+          "-licencia": "GPL"
+        }
+      ]
+    }
+  }

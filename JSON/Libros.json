@@ -1,0 +1,12 @@
+{
+    "libros": {
+      "libro": [
+        {
+          "nombre": "El diario de una princesa muerta"
+        },
+        {
+          "nombre": "Lo que nunca te conte"
+        }
+      ]
+    }
+  }
