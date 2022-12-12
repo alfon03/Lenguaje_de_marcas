@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+    <empleados>
+        <empleado1>
+            <id_empleado> 1968</id_empleado>
+            <apellido> Burgos</apellido>
+            <nombre>Jeronimo</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Administración</facultad>
+            <cargo>Administrativo</cargo>
+            <salario>$3.200.000</salario>
+            <fech_comienzo>05/04/1982</fech_comienzo>
+            <fech_nacimiento>28/09/1951</fech_nacimiento>
+        </empleado1>
+
+        <empleado2>
+            <id_empleado> 1674</id_empleado>
+            <apellido> Vilegas</apellido>
+            <nombre>Estefania</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Administración</facultad>
+            <cargo>Docente</cargo>
+            <salario>$3.200.000</salario>
+            <fech_comienzo>25/03/1992</fech_comienzo>
+            <fech_nacimiento>17/01/1964</fech_nacimiento>
+        </empleado2>
+
+        <empleado3>
+            <id_empleado> 1516</id_empleado>
+            <apellido> Fernandez</apellido>
+            <nombre>Guillermo</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Administración</facultad>
+            <cargo>Docente</cargo>
+            <salario>$4.500.000</salario>
+            <fech_comienzo>06/03/1985</fech_comienzo>
+            <fech_nacimiento>26/06/1963</fech_nacimiento>
+        </empleado3>
+
+        <empleado4>
+            <id_empleado> 1330</id_empleado>
+            <apellido> Ramirez</apellido>
+            <nombre>Eliana</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Administración</facultad>
+            <cargo>Docente</cargo>
+            <salario>$3.200.000</salario>
+            <fech_comienzo>14/02/1989</fech_comienzo>
+            <fech_nacimiento>17/05/1964</fech_nacimiento>
+        </empleado4>
+
+
+        <empleado5>
+            <id_empleado> 1657</id_empleado>
+            <apellido> Carmona</apellido>
+            <nombre>Jose</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Administración</facultad>
+            <cargo>Docente</cargo>
+            <salario>$3.200.000</salario>
+            <fech_comienzo>06/12/1986</fech_comienzo>
+            <fech_nacimiento>10/10/1963</fech_nacimiento>
+        </empleado5>
+
+
+        <empleado6>
+            <id_empleado> 1573</id_empleado>
+            <apellido> De santis</apellido>
+            <nombre>Marcela</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Administración</facultad>
+            <cargo>ALDC. Administrativo</cargo>
+            <salario>$1.500.000</salario>
+            <fech_comienzo>07/07/1988</fech_comienzo>
+            <fech_nacimiento>31/05/1960</fech_nacimiento>
+        </empleado6>
+
+
+        <empleado7>
+            <id_empleado> 1658</id_empleado>
+            <apellido> Franco</apellido>
+            <nombre>Daniela</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Administración</facultad>
+            <cargo>Docente</cargo>
+            <salario>$3.200.000</salario>
+            <fech_comienzo>06/06/1988</fech_comienzo>
+            <fech_nacimiento>14/10/1963</fech_nacimiento>
+        </empleado7>
+
+        <empleado8>
+            <id_empleado> 1078</id_empleado>
+            <apellido> Cortes</apellido>
+            <nombre>Rafael</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Diseño</facultad>
+            <cargo>Administrativo</cargo>
+            <salario>$4.200.000</salario>
+            <fech_comienzo>01/04/1986</fech_comienzo>
+            <fech_nacimiento>21/11/1962</fech_nacimiento>
+        </empleado8>
+
+        <empleado9>
+            <id_empleado> 1695</id_empleado>
+            <apellido> Barrio</apellido>
+            <nombre>Camilo</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Diseño</facultad>
+            <cargo>Docente</cargo>
+            <salario>$3.200.000</salario>
+            <fech_comienzo>20/10/1984</fech_comienzo>
+            <fech_nacimiento>05/01/1960</fech_nacimiento>
+        </empleado9>
+
+        <empleado10>
+            <id_empleado> 1285</id_empleado>
+            <apellido> Arias </apellido>
+            <nombre>Francisco</nombre>
+            <seccional>Palmira</seccional>
+            <facultad>Diseño</facultad>
+            <cargo>Docente </cargo>
+            <salario>$3.200.000</salario>
+            <fech_comienzo>27/12/1984</fech_comienzo>
+            <fech_nacimiento>22/12/1962</fech_nacimiento>
+        </empleado10>
+    </empleados>
+</empresa>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Arboles>
+        <Especie>
+                <nombre>Acer monspessulanum</nombre>
+                <nombre_comun>Arce de Montpellier, Arce menor</nombre_comun>
+                <Vegetación>Caducifolio</Vegetación>
+                <altura>De 6 a 10 metro</altura>
+                <estructura>Copa esférica. Tronco principal recto con bifurcaciones. Ramaje colgante</estructura>
+                <color_primavera>Haz verde brillante, envés verde blanquecino</color_primavera>
+                <resistencia>Heladas fuertes (hasta -15ºC)</resistencia>
+        </Especie>
+        <Especie>
+                <nombre>Olea europea</nombre>
+                <nombre_comun>Olivo</nombre_comun>
+                <Vegetación>Perenne</Vegetación>
+                <altura>De 8 a 15 metros</altura>
+                <estructura>Copa irregular. Tronco principal irregular con bifurcaciones.</estructura>
+        </Especie>
+        <Especie>
+                <nombre_comun>Ramaje tortuoso</nombre_comun>
+                <color_primavera>Haz verde oscuro, envés verde plateado</color_primavera>
+                <resistencia>Heladas medias (hasta -10ºC)</resistencia>
+        </Especie>
+        <Especie>
+                <nombre>Platanus orientails</nombre>
+                <nombre_comun>Platano</nombre_comun>
+                <Vegetación>Caducifolio</Vegetación>
+                <altura>De 20 a 25 metros</altura>
+                <estructura>Copa ovoidal. Tronco principal recto. Ramaje expandido</estructura>
+                <color_primavera>Haz verde medio, enves verde claro</color_primavera>
+                <color_otoño>Ocre</color_otoño>
+                <resistencia>Heladas fuertes (hasta -20ºC)</resistencia>
+        </Especie>
+</Arboles>

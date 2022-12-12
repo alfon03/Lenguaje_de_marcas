@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<agenda>
+    <contacto1>Juan Delgado Martínez
+		<email>juandelagadomartinez@gmail.com</email>
+		<telefono>+152 734 78 90 65</telefono>
+	</contacto1>
+
+    <contacto2>Paco Sanchez Santiago
+		<email>pacosan@hotmail.com</email>
+		<email2>pacosanchezsasaantigo@yopmail.com</email2>
+		<telefono>+23 767 75 30 85</telefono>
+	</contacto2>
+
+	<contacto3>Santiago Segura Silva
+		<email>torrente90@gmail.com</email>
+		<email2>santisegusil@hotmail.es</email2>
+		<telefono>+34 675 87 09 12</telefono>
+		<telefono>+34 654 67 89 45</telefono>
+	</contacto3>
+</agenda>

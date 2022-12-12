@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bandeja_de_entrada_correo_electronico> 
+    <remitente>
+        <nombre>Antonio Jesus Gloriado de la Vega</nombre>
+        <email>antonjesusgloriado@gmail.com</email></remitente>
+    <destinatario>
+        <nombre>Pepe Rodriguez Aguilar</nombre>
+        <email>peperodriaguilar@gmail.com</email>
+    </destinatario>
+    <asunto>Premio Nobel de Medicina para Svante Pääbo por sus descubrimientos sobre la evolución humana</asunto>
+        <cuerpo> 
+            <parrafo1>El genetista sueco ha desarrollado métodos para estudiar ADN antiguo 
+                que han permitido la recuperación y el análisis 
+                del genoma de especies desaparecidas como los neandertales</parrafo1>
+            <parrafo2>La Asamblea Nobel del Instituto Karolinska de Estocolmo ha distinguido c
+                on el Premio Nobel de Medicina y Fisiología al biólogo sueco Svante Pääbo 
+                (Estocolmo, 1955) por sus hallazgos sobre la evolución humana y la secuenciación 
+                del genoma de especies extintas. 
+            </parrafo2>
+            <parrafo3>Tal y como expone el jurado, "a través de su investigación pionera, 
+                Svante Pääbo logró algo aparentemente imposible: secuenciar el 
+                genoma del neandertal, un pariente extinto de los humanos actuales. También hizo 
+                el sensacional descubrimiento de un homínido previamente desconocido, Denisova 
+                (o denisovano)".</parrafo3>
+        </cuerpo>
+</bandeja_de_entrada_correo_electronico>

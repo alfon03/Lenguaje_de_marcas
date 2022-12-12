@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bandeja_de_entrada_correo_electronico> 
+    <remitente>Antonio Jesus Gloriado de la Vega</remitente>
+    <destinatario> Pepe Rodriguez Aguilar</destinatario>
+    <asunto>Premio Nobel de Medicina para Svante Pääbo por sus descubrimientos sobre la evolución humana</asunto>
+        <cuerpo> 
+            El genetista sueco ha desarrollado métodos para estudiar ADN antiguo 
+            que han permitido la recuperación y el análisis del genoma de especies 
+            desaparecidas como los neandertales
+        </cuerpo>
+</bandeja_de_entrada_correo_electronico>
