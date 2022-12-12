@@ -1,0 +1,116 @@
+{
+    "empresa": {
+      "empleados": {
+        "empleado1": {
+          "id_empleado": " 1968",
+          "apellido": " Burgos",
+          "nombre": "Jeronimo",
+          "seccional": "Palmira",
+          "facultad": "Administración",
+          "cargo": "Administrativo",
+          "salario": "$3.200.000",
+          "fech_comienzo": "05/04/1982",
+          "fech_nacimiento": "28/09/1951"
+        },
+        "empleado2": {
+          "id_empleado": " 1674",
+          "apellido": " Vilegas",
+          "nombre": "Estefania",
+          "seccional": "Palmira",
+          "facultad": "Administración",
+          "cargo": "Docente",
+          "salario": "$3.200.000",
+          "fech_comienzo": "25/03/1992",
+          "fech_nacimiento": "17/01/1964"
+        },
+        "empleado3": {
+          "id_empleado": " 1516",
+          "apellido": " Fernandez",
+          "nombre": "Guillermo",
+          "seccional": "Palmira",
+          "facultad": "Administración",
+          "cargo": "Docente",
+          "salario": "$4.500.000",
+          "fech_comienzo": "06/03/1985",
+          "fech_nacimiento": "26/06/1963"
+        },
+        "empleado4": {
+          "id_empleado": " 1330",
+          "apellido": " Ramirez",
+          "nombre": "Eliana",
+          "seccional": "Palmira",
+          "facultad": "Administración",
+          "cargo": "Docente",
+          "salario": "$3.200.000",
+          "fech_comienzo": "14/02/1989",
+          "fech_nacimiento": "17/05/1964"
+        },
+        "empleado5": {
+          "id_empleado": " 1657",
+          "apellido": " Carmona",
+          "nombre": "Jose",
+          "seccional": "Palmira",
+          "facultad": "Administración",
+          "cargo": "Docente",
+          "salario": "$3.200.000",
+          "fech_comienzo": "06/12/1986",
+          "fech_nacimiento": "10/10/1963"
+        },
+        "empleado6": {
+          "id_empleado": " 1573",
+          "apellido": " De santis",
+          "nombre": "Marcela",
+          "seccional": "Palmira",
+          "facultad": "Administración",
+          "cargo": "ALDC. Administrativo",
+          "salario": "$1.500.000",
+          "fech_comienzo": "07/07/1988",
+          "fech_nacimiento": "31/05/1960"
+        },
+        "empleado7": {
+          "id_empleado": " 1658",
+          "apellido": " Franco",
+          "nombre": "Daniela",
+          "seccional": "Palmira",
+          "facultad": "Administración",
+          "cargo": "Docente",
+          "salario": "$3.200.000",
+          "fech_comienzo": "06/06/1988",
+          "fech_nacimiento": "14/10/1963"
+        },
+        "empleado8": {
+          "id_empleado": " 1078",
+          "apellido": " Cortes",
+          "nombre": "Rafael",
+          "seccional": "Palmira",
+          "facultad": "Diseño",
+          "cargo": "Administrativo",
+          "salario": "$4.200.000",
+          "fech_comienzo": "01/04/1986",
+          "fech_nacimiento": "21/11/1962"
+        },
+        "empleado9": {
+          "id_empleado": " 1695",
+          "apellido": " Barrio",
+          "nombre": "Camilo",
+          "seccional": "Palmira",
+          "facultad": "Diseño",
+          "cargo": "Docente",
+          "salario": "$3.200.000",
+          "fech_comienzo": "20/10/1984",
+          "fech_nacimiento": "05/01/1960"
+        },
+        "empleado10": {
+          "id_empleado": " 1285",
+          "apellido": " Arias ",
+          "nombre": "Francisco",
+          "seccional": "Palmira",
+          "facultad": "Diseño",
+          "cargo": "Docente ",
+          "salario": "$3.200.000",
+          "fech_comienzo": "27/12/1984",
+          "fech_nacimiento": "22/12/1962"
+        }
+      }
+    }
+  }

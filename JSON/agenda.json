@@ -1,0 +1,24 @@
+{
+    "agenda": {
+      "contacto1": {
+        "#text": "Juan Delgado Martínez",
+        "email": "juandelagadomartinez@gmail.com",
+        "telefono": "+152 734 78 90 65"
+      },
+      "contacto2": {
+        "#text": "Paco Sanchez Santiago",
+        "email": "pacosan@hotmail.com",
+        "email2": "pacosanchezsasaantigo@yopmail.com",
+        "telefono": "+23 767 75 30 85"
+      },
+      "contacto3": {
+        "#text": "Santiago Segura Silva",
+        "email": "torrente90@gmail.com",
+        "email2": "santisegusil@hotmail.es",
+        "telefono": [
+          "+34 675 87 09 12",
+          "+34 654 67 89 45"
+        ]
+      }
+    }
+}
